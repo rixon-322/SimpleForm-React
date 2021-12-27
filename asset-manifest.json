@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SimpleForm-React/static/css/main.2104a1c6.css",
+    "main.js": "/SimpleForm-React/static/js/main.95bf1f88.js",
+    "static/js/787.8753500b.chunk.js": "/SimpleForm-React/static/js/787.8753500b.chunk.js",
+    "index.html": "/SimpleForm-React/index.html",
+    "main.2104a1c6.css.map": "/SimpleForm-React/static/css/main.2104a1c6.css.map",
+    "main.95bf1f88.js.map": "/SimpleForm-React/static/js/main.95bf1f88.js.map",
+    "787.8753500b.chunk.js.map": "/SimpleForm-React/static/js/787.8753500b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2104a1c6.css",
+    "static/js/main.95bf1f88.js"
+  ]
+}
